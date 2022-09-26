@@ -15,6 +15,7 @@
   <img align="center" alt="Victor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Victor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t1.18169-9/19959220_1519973361366504_3657544334279731795_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gVtv0MzNVQ0AX__B7Kz&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT9b_qxxjOGUDmd1ErCFaVGYMJ8SWRGz9LRs7lblywsjgQ&oe=635806DD">
