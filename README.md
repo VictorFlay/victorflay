@@ -1,4 +1,4 @@
-### Olá, seja bem vindo! Sou o Victor Alcantara, agradeço sua visita! 👋
+### Olá, seja bem vindo! Sou o Victor Alcantara! 👋
 
 - 🔭 Trabalhando com front-end
 - 🌱 Estudando Laravel
