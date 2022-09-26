@@ -3,7 +3,6 @@
 - 🔭 Trabalhando com front-end
 - 🌱 Estudando Laravel
 - 📫 Contate-me no e-mail: vhugoviana82@gmail.com
-- 😄 Pronomes: ele/dele
 
   <div align="center">
   <a href="https://github.com/victorflay">
