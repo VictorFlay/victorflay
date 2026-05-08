@@ -1,7 +1,6 @@
 ### Olá, seja bem vindo! Sou o Victor Alcantara. 👋
 
-- 🔭 Trabalhando com front-end
-- 🌱 Estudando Laravel
+
 - 📫 Contate-me no e-mail: vhugoviana82@gmail.com
 
   <div align="center">
